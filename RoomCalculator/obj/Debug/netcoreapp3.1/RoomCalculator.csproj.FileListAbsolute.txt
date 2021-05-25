@@ -1,0 +1,13 @@
+C:\Users\Labden\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.csprojAssemblyReference.cache
+C:\Users\Labden\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\Labden\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.AssemblyInfo.cs
+C:\Users\Labden\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Labden\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.exe
+C:\Users\Labden\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.deps.json
+C:\Users\Labden\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.runtimeconfig.json
+C:\Users\Labden\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.runtimeconfig.dev.json
+C:\Users\Labden\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.dll
+C:\Users\Labden\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.pdb
+C:\Users\Labden\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.dll
+C:\Users\Labden\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.pdb
+C:\Users\Labden\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.genruntimeconfig.cache
